@@ -1,7 +1,6 @@
 # **Calculo de combustível**
 #### Este é um sistema desenvolvido para calcular a autonomia do veículo e o consumo de combustível com base em diferentes métodos de entrada.
 
-![imagem de exemplo](image.png)
 
 
 
